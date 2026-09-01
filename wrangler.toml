@@ -13,8 +13,8 @@ binding = "ASSETS"
 # D1 数据库绑定
 [[d1_databases]]
 binding = "DB"
-database_name = "moontvplus"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_name = "moontv"
+database_id = "f16452d5-1c62-443f-8072-121acb688e8f"
 
 [vars]
 NODE_ENV = "production"
